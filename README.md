@@ -8,6 +8,16 @@
 
 - 📫 How to reach me **nimsara22cha@gamil.com**
 
+- 🔭 I’m currently working on **Flutter Android App Developing**
+
+- 🌱 I’m currently learning **Flutter & Dart**
+
+- 💬 Ask me about **Flutter, Dart**
+
+- 📫 How to reach me **chanukagayantha14@gmail.com**
+
+- ⚡ Fun fact **Programming + TV shows make me comfortable**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/nimsara kobbekaduwa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nimsara kobbekaduwa" height="30" width="40" /></a>
