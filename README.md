@@ -4,6 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kobbekaduwa22&label=Profile%20views&color=0e75b6&style=flat" alt="kobbekaduwa22" /> </p>
 
+
 - 🌱 I’m currently learning **NSBM UNIVERSITY**
 
 - 📫 How to reach me **nimsara22cha@gamil.com**
@@ -14,9 +15,13 @@
 
 - 💬 Ask me about **Flutter, Dart**
 
-- 📫 How to reach me **chanukagayantha14@gmail.com**
-
 - ⚡ Fun fact **Programming + TV shows make me comfortable**
+
+
+
+<br>
+<br>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chanukagayantha" alt="chanukagayantha" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
